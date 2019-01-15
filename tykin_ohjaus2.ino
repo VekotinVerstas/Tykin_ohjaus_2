@@ -142,7 +142,7 @@ void loop() {
     delay(4000);
     powerON = 0;
   }
-
+/*
   Serial.println("reading");
   Serial.println(reading);
   Serial.println("ledState");
@@ -155,5 +155,5 @@ void loop() {
   Serial.println(powerDOWN);
 
   delay(10);
-
+*/
 }
